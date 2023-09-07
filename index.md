@@ -1,6 +1,6 @@
+# VIRTUAL CAMPUS
 ---
-title: Virtual Campus
-[x] Schoonover center
-[x] ECT Scripps Hall
+title: Schoonover Center
 ---
-
+ College Green
+ ECT Scripps Hall
